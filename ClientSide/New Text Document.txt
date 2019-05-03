@@ -1,0 +1,8 @@
+BAW474		Have Money
+BEU359		No Money
+AVE068		Have Money
+AKT737		No Money
+
+
+APS300		Crime
+NO plate
